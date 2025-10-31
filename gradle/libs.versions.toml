@@ -1,6 +1,6 @@
 [versions]
 jakarta-websocket = "2.1.1"
-org-apache-derby = "10.16.1.1"
+org-apache-derby = "10.17.1.0"
 org-mockito = "5.16.1"
 org-mongodb = "5.5.0"
 org-springframework-boot = "3.5.1-SNAPSHOT"
